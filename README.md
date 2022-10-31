@@ -3,7 +3,7 @@
 
 - 💻 Engenharia de Software
 - 🔋  Universidade Federal do Amazonas
-- 📈 Atualmente estudando JavaScript e Node.js
+- 📈 Atualmente estudando desenvolvimento web
 
 
 <div align="center">
