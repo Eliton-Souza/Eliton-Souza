@@ -1,4 +1,4 @@
-### Olá, eu sou Eliton👋
+### Olá👋
 
 
 - 💻 Engenharia de Software
