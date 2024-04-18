@@ -1,9 +1,9 @@
 ### Olá👋
 
 
-- 💻 Engenharia de Software
+- 💻 Engenheiro de Software
 - 🔋  Universidade Federal do Amazonas
-- 📈 Atualmente estudando desenvolvimento web
+- 📈 Aperfeiçoando em desenvolvimento web
 
 
 
